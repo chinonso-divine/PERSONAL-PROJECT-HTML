@@ -1,2 +1,2 @@
-# PERSONAL-PROJECT-HTML
+Index.html
 My personal html project
